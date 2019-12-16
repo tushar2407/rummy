@@ -1,12 +1,12 @@
 #ABOUT INTERFACE OF THE GAME
 The game starts with a loading screen during which game is setup in the background  .
 In the playing area, there is a logo at the middle of the screen.
-Components of playing screen:
+COMPONENTS OF PLAYING SCREEN:
     . on the left top side is the stock pile to pick card
     . on the right top side is the discarded pile to discard your card and/or pick a card from
     . lower side of the screen shows you your deck of 13 cards.
     . at the bottom of the screen, instructions for you are displayed to guide you through the game flow.
-Instructions for the game:
+INSTRUCTIONS:
     . this is a POINTS RUMMY where after 10 rounds the final score of both the players is calculated and the one with minimum score wins.
     . a player can win by making RUNS with a group of 4 consecutive cards of same suit. 
     . or by making sets, i.e., group of cards with same number but different suits.
